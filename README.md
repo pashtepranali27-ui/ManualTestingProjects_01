@@ -1,37 +1,32 @@
-# ManualTestingProjects_01
+# Manual Testing Project – SauceDemo
 
-## 1. Project Overview
-This project demonstrates manual testing of the SauceDemo e-commerce web application.
+## Project Overview
+This project demonstrates my practical knowledge of manual software testing using the SauceDemo web application.
 
-## 2. Application Under Test
+## Application Under Test
 https://www.saucedemo.com/
 
-## 3. Objectives
-- Validate login functionality.
-- Verify product listing and sorting.
-- Test shopping cart operations.
-- Validate checkout functionality.
-- Identify and document reproducible defects.
-
-## 4. Testing Scope
+## Testing Type
 - Functional Testing
-- Positive and Negative Testing
-- Smoke Testing
-- Regression Testing
-- Boundary Value Analysis
-- Equivalence Partitioning
+- Positive Testing
+- Negative Testing
+- UI Validation
 
-## 5. Test Deliverables
-- Test Plan
-- Test Scenarios and Test Cases
+## Modules to Test
+- Login
+- Products
+- Cart
+- Checkout
+
+## Project Documents
+- Login Test Cases
 - Test Execution Report
 - Defect Reports
-- Test Summary Report
 
-## 6. Tools
-- GitHub
-- Microsoft Excel / Google Sheets
+## Tools Used
 - Visual Studio Code
+- Git and GitHub
+- SauceDemo Web Application
 
-## 7. Project Status
-In Progress
+## Author
+Pranali Pashte
